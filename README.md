@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/jaripsalo/MS%20Learn%20-%20Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/jaripsalo/MS%20Learn%20-%20Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=refs%2Fpull%2F2%2Fmerge)
+[![Build Status](https://dev.azure.com/jaripsalo/MS%20Learn%20-%20Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/jaripsalo/MS%20Learn%20-%20Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
